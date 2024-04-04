@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7179869457404620801" height="708" width="504" frameborder="0" allowfullscreen="" title="منشور مضمن"></iframe>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
